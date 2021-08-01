@@ -28,7 +28,7 @@ To use this on your project, copy the entire `addons` folder to your project fol
 
 ### Caution
 * Plugin "Hide 2D" should always be included in your project as the rest are extended from it.
-* If you are collaboring with others in different roles, add "project.godot" to your `.gitignore` file or your plugins' status will clash with your teammates'. Be aware of other changes to the Project's Setting, though.
+* If you are collaboring with others in different roles, add "project.godot" to your `.gitignore` file or your plugins' status will clash with your teammates'. Be aware of other changes to the Project Settings, though.
 
 ## Author
 * mechPenSketch
