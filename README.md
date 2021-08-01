@@ -25,7 +25,7 @@ This asset contains three plugins: "Hide 2D", "Hide 3D" and "Hide AssetLib". To 
 To use this on your project, copy the entire `addons` folder to your project folder.
 
 ### Caution
-Plugin "Hide AssetLib" should always be included in your project as the rest are extended from it.
+Plugin "Hide 2D" should always be included in your project as the rest are extended from it.
 
 ## Author
 * mechPenSketch
